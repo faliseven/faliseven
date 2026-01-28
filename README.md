@@ -21,11 +21,11 @@
 ### 📊 Моя статистика
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Fal1sev4n&show_icons=true&theme=tokyonight&hide_border=true" alt="Fal1sev4n's Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=faliseven&show_icons=true&theme=tokyonight&hide_border=true" alt="Fal1sev4n's Stats" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fal1sev4n&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faliseven&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
 </div>
